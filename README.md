@@ -113,14 +113,14 @@ The dashboard was designed with **two pages**, providing insights into:
 # 🤖 Phase 2: Intelligent RAG Agent  
 
 <p align="center">
-  <a href="./rag_llm.py">
-    <img src="https://img.shields.io/badge/Python-Agent_Code-blue?logo=python" alt="View Agent Code">
+  <a href="rag_llm.py">
+    <img src="https://img.shields.io/badge/Python-Agent_Code-blue?logo=python" alt="Python Agent Code">
   </a>
-  <a href="./DataFiles/YouTube_Trending_Video_Dataset_Full_Report.pdf">
-    <img src="https://img.shields.io/badge/RAG-Source_PDF-red?logo=adobeacrobatreader" alt="View RAG PDF">
+  <a href="DataFiles/YouTube_Trending_Video_Dataset_Full_Report.pdf">
+    <img src="https://img.shields.io/badge/RAG-Source_PDF-red?logo=adobeacrobatreader" alt="RAG Source PDF">
   </a>
-  <a href="./youtube_trending_faiss/">
-    <img src="https://img.shields.io/badge/FAISS-Vector_DB-green?logo=database" alt="Browse Vector DB">
+  <a href="./">
+    <img src="https://img.shields.io/badge/Project-Agent_Folder-grey?logo=folder" alt="Agent Project Folder">
   </a>
 </p>
 
