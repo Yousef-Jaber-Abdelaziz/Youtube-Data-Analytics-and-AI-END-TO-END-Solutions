@@ -113,7 +113,7 @@ The dashboard was designed with **two pages**, providing insights into:
 # 🤖 Phase 2: Intelligent RAG Agent  
 
 <p align="center">
-  <a href="rag_llm.py">
+  <a href="YK Analysis Agent/rag_llm.py">
     <img src="https://img.shields.io/badge/Python-Agent_Code-blue?logo=python" alt="Python Agent Code">
   </a>
   <a href="DataFiles/YouTube_Trending_Video_Dataset_Full_Report.pdf">
